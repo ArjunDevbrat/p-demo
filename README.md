@@ -10,4 +10,4 @@ demo for Git  &amp; Github classes.
 
  .user{
     font-style: italic;
- }
+ };

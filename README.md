@@ -6,7 +6,7 @@ demo for Git  &amp; Github classes.
 
  .post{
     background-color: blanchedalmond;
- };
+ }
 
  .user{
     font-style: italic;
